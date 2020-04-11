@@ -1,0 +1,12 @@
+46 arboles por filas
+15 filas
+
+----------------
+4 Filas arcilla     11% capacidad de mantener humedad
+----------------
+8 filas franco      20% capacidad de mantener humedad
+----------------
+3 filas arena       40% capacidad de mantener humedad
+----------------
+
+24 dolares
