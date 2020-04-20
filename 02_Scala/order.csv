@@ -1,0 +1,197 @@
+CustomerID,OrderID,CustomerName,OrderDate
+90,10248,Wilman Kala,1996-07-04
+81,10249,Tradição Hipermercados,1996-07-05
+34,10250,Hanari Carnes,1996-07-08
+84,10251,Victuailles en stock,1996-07-08
+76,10252,Suprêmes délices,1996-07-09
+34,10253,Hanari Carnes,1996-07-10
+14,10254,Chop-suey Chinese,1996-07-11
+68,10255,Richter Supermarkt,1996-07-12
+88,10256,Wellington Importadora,1996-07-15
+35,10257,HILARIÓN-Abastos,1996-07-16
+20,10258,Ernst Handel,1996-07-17
+13,10259,Centro comercial Moctezuma,1996-07-18
+55,10260,Old World Delicatessen,1996-07-19
+61,10261,Que Delícia,1996-07-19
+65,10262,Rattlesnake Canyon Grocery,1996-07-22
+20,10263,Ernst Handel,1996-07-23
+24,10264,Folk och fä HB,1996-07-24
+7,10265,Blondel père et fils,1996-07-25
+87,10266,Wartian Herkku,1996-07-26
+25,10267,Frankenversand,1996-07-29
+33,10268,GROSELLA-Restaurante,1996-07-30
+89,10269,White Clover Markets,1996-07-31
+87,10270,Wartian Herkku,1996-08-01
+75,10271,Split Rail Beer & Ale,1996-08-01
+65,10272,Rattlesnake Canyon Grocery,1996-08-02
+63,10273,QUICK-Stop,1996-08-05
+85,10274,Vins et alcools Chevalier,1996-08-06
+49,10275,Magazzini Alimentari Riuniti,1996-08-07
+80,10276,Tortuga Restaurante,1996-08-08
+52,10277,Morgenstern Gesundkost,1996-08-09
+5,10278,Berglunds snabbköp,1996-08-12
+44,10279,Lehmanns Marktstand,1996-08-13
+5,10280,Berglunds snabbköp,1996-08-14
+69,10281,Romero y tomillo,1996-08-14
+69,10282,Romero y tomillo,1996-08-15
+46,10283,LILA-Supermercado,1996-08-16
+44,10284,Lehmanns Marktstand,1996-08-19
+63,10285,QUICK-Stop,1996-08-20
+63,10286,QUICK-Stop,1996-08-21
+67,10287,Ricardo Adocicados,1996-08-22
+66,10288,Reggiani Caseifici,1996-08-23
+11,10289,B's Beverages,1996-08-26
+15,10290,Comércio Mineiro,1996-08-27
+61,10291,Que Delícia,1996-08-27
+81,10292,Tradição Hipermercados,1996-08-28
+80,10293,Tortuga Restaurante,1996-08-29
+65,10294,Rattlesnake Canyon Grocery,1996-08-30
+85,10295,Vins et alcools Chevalier,1996-09-02
+46,10296,LILA-Supermercado,1996-09-03
+7,10297,Blondel père et fils,1996-09-04
+37,10298,Hungry Owl All-Night Grocers,1996-09-05
+67,10299,Ricardo Adocicados,1996-09-06
+49,10300,Magazzini Alimentari Riuniti,1996-09-09
+86,10301,Die Wandernde Kuh,1996-09-09
+76,10302,Suprêmes délices,1996-09-10
+30,10303,Godos Cocina Típica,1996-09-11
+80,10304,Tortuga Restaurante,1996-09-12
+55,10305,Old World Delicatessen,1996-09-13
+69,10306,Romero y tomillo,1996-09-16
+48,10307,Lonesome Pine Restaurant,1996-09-17
+2,10308,Ana Trujillo Emparedados y helados,1996-09-18
+37,10309,Hungry Owl All-Night Grocers,1996-09-19
+77,10310,The Big Cheese,1996-09-20
+18,10311,Du monde entier,1996-09-20
+86,10312,Die Wandernde Kuh,1996-09-23
+63,10313,QUICK-Stop,1996-09-24
+65,10314,Rattlesnake Canyon Grocery,1996-09-25
+38,10315,Island Trading,1996-09-26
+65,10316,Rattlesnake Canyon Grocery,1996-09-27
+48,10317,Lonesome Pine Restaurant,1996-09-30
+38,10318,Island Trading,1996-10-01
+80,10319,Tortuga Restaurante,1996-10-02
+87,10320,Wartian Herkku,1996-10-03
+38,10321,Island Trading,1996-10-03
+58,10322,Pericles Comidas clásicas,1996-10-04
+39,10323,Königlich Essen,1996-10-07
+71,10324,Save-a-lot Markets,1996-10-08
+39,10325,Königlich Essen,1996-10-09
+8,10326,Bólido Comidas preparadas,1996-10-10
+24,10327,Folk och fä HB,1996-10-11
+28,10328,Furia Bacalhau e Frutos do Mar,1996-10-14
+75,10329,Split Rail Beer & Ale,1996-10-15
+46,10330,LILA-Supermercado,1996-10-16
+9,10331,Bon app',1996-10-16
+51,10332,Mère Paillarde,1996-10-17
+87,10333,Wartian Herkku,1996-10-18
+84,10334,Victuailles en stock,1996-10-21
+37,10335,Hungry Owl All-Night Grocers,1996-10-22
+60,10336,Princesa Isabel Vinhoss,1996-10-23
+25,10337,Frankenversand,1996-10-24
+55,10338,Old World Delicatessen,1996-10-25
+51,10339,Mère Paillarde,1996-10-28
+9,10340,Bon app',1996-10-29
+73,10341,Simons bistro,1996-10-29
+25,10342,Frankenversand,1996-10-30
+44,10343,Lehmanns Marktstand,1996-10-31
+89,10344,White Clover Markets,1996-11-01
+63,10345,QUICK-Stop,1996-11-04
+65,10346,Rattlesnake Canyon Grocery,1996-11-05
+21,10347,Familia Arquibaldo,1996-11-06
+86,10348,Die Wandernde Kuh,1996-11-07
+75,10349,Split Rail Beer & Ale,1996-11-08
+41,10350,La maison d'Asie,1996-11-11
+20,10351,Ernst Handel,1996-11-11
+28,10352,Furia Bacalhau e Frutos do Mar,1996-11-12
+59,10353,Piccolo und mehr,1996-11-13
+58,10354,Pericles Comidas clásicas,1996-11-14
+4,10355,Around the Horn,1996-11-15
+86,10356,Die Wandernde Kuh,1996-11-18
+46,10357,LILA-Supermercado,1996-11-19
+41,10358,La maison d'Asie,1996-11-20
+72,10359,Seven Seas Imports,1996-11-21
+7,10360,Blondel père et fils,1996-11-22
+63,10361,QUICK-Stop,1996-11-22
+9,10362,Bon app',1996-11-25
+17,10363,Drachenblut Delikatessend,1996-11-26
+19,10364,Eastern Connection,1996-11-26
+3,10365,Antonio Moreno Taquería,1996-11-27
+29,10366,Galería del gastrónomo,1996-11-28
+83,10367,Vaffeljernet,1996-11-28
+20,10368,Ernst Handel,1996-11-29
+75,10369,Split Rail Beer & Ale,1996-12-02
+14,10370,Chop-suey Chinese,1996-12-03
+41,10371,La maison d'Asie,1996-12-03
+62,10372,Queen Cozinha,1996-12-04
+37,10373,Hungry Owl All-Night Grocers,1996-12-05
+91,10374,Wolski,1996-12-05
+36,10375,Hungry Coyote Import Store,1996-12-06
+51,10376,Mère Paillarde,1996-12-09
+72,10377,Seven Seas Imports,1996-12-09
+24,10378,Folk och fä HB,1996-12-10
+61,10379,Que Delícia,1996-12-11
+37,10380,Hungry Owl All-Night Grocers,1996-12-12
+46,10381,LILA-Supermercado,1996-12-12
+20,10382,Ernst Handel,1996-12-13
+4,10383,Around the Horn,1996-12-16
+5,10384,Berglunds snabbköp,1996-12-16
+75,10385,Split Rail Beer & Ale,1996-12-17
+21,10386,Familia Arquibaldo,1996-12-18
+70,10387,Santé Gourmet,1996-12-18
+72,10388,Seven Seas Imports,1996-12-19
+10,10389,Bottom-Dollar Marketse,1996-12-20
+20,10390,Ernst Handel,1996-12-23
+17,10391,Drachenblut Delikatessend,1996-12-23
+59,10392,Piccolo und mehr,1996-12-24
+71,10393,Save-a-lot Markets,1996-12-25
+36,10394,Hungry Coyote Import Store,1996-12-25
+35,10395,HILARIÓN-Abastos,1996-12-26
+25,10396,Frankenversand,1996-12-27
+60,10397,Princesa Isabel Vinhoss,1996-12-27
+71,10398,Save-a-lot Markets,1996-12-30
+83,10399,Vaffeljernet,1996-12-31
+19,10400,Eastern Connection,1997-01-01
+65,10401,Rattlesnake Canyon Grocery,1997-01-01
+20,10402,Ernst Handel,1997-01-02
+20,10403,Ernst Handel,1997-01-03
+49,10404,Magazzini Alimentari Riuniti,1997-01-03
+47,10405,LINO-Delicateses,1997-01-06
+62,10406,Queen Cozinha,1997-01-07
+56,10407,Ottilies Käseladen,1997-01-07
+23,10408,Folies gourmandes,1997-01-08
+54,10409,Océano Atlántico Ltda.,1997-01-09
+10,10410,Bottom-Dollar Marketse,1997-01-10
+10,10411,Bottom-Dollar Marketse,1997-01-10
+87,10412,Wartian Herkku,1997-01-13
+41,10413,La maison d'Asie,1997-01-14
+21,10414,Familia Arquibaldo,1997-01-14
+36,10415,Hungry Coyote Import Store,1997-01-15
+87,10416,Wartian Herkku,1997-01-16
+73,10417,Simons bistro,1997-01-16
+63,10418,QUICK-Stop,1997-01-17
+68,10419,Richter Supermarkt,1997-01-20
+88,10420,Wellington Importadora,1997-01-21
+61,10421,Que Delícia,1997-01-21
+27,10422,Franchi S.p.A.,1997-01-22
+31,10423,Gourmet Lanchonetes,1997-01-23
+51,10424,Mère Paillarde,1997-01-23
+41,10425,La maison d'Asie,1997-01-24
+29,10426,Galería del gastrónomo,1997-01-27
+59,10427,Piccolo und mehr,1997-01-27
+66,10428,Reggiani Caseifici,1997-01-28
+37,10429,Hungry Owl All-Night Grocers,1997-01-29
+20,10430,Ernst Handel,1997-01-30
+10,10431,Bottom-Dollar Marketse,1997-01-30
+75,10432,Split Rail Beer & Ale,1997-01-31
+60,10433,Princesa Isabel Vinhoss,1997-02-03
+24,10434,Folk och fä HB,1997-02-03
+16,10435,Consolidated Holdings,1997-02-04
+7,10436,Blondel père et fils,1997-02-05
+87,10437,Wartian Herkku,1997-02-05
+79,10438,Toms Spezialitäten,1997-02-06
+51,10439,Mère Paillarde,1997-02-07
+71,10440,Save-a-lot Markets,1997-02-10
+55,10441,Old World Delicatessen,1997-02-10
+20,10442,Ernst Handel,1997-02-11
+66,10443,Reggiani Caseifici,1997-02-12
