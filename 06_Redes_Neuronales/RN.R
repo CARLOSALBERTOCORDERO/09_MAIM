@@ -74,7 +74,7 @@ nn.loan1 <- neuralnet(formula=formula.loan.1,
 set.seed(1234)
 nn.loan2 <- neuralnet(formula=formula.loan.2,
                       data = train.set,
-                      hidden=10, threshold=0.01,
+                      hidden=10, threshold=0.02,
                       linear.output = F,
                       stepmax=1e+06,
                       lifesign = "full")
