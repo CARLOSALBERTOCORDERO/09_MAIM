@@ -3,8 +3,13 @@
 #Load information
 ###########################
 ###########################
-getwd()
-setwd("C:/Users/ccordero/Desktop/Maestria/09_MAIM/proyecto_final/DatosPrimariosProyectoIntegrador")
+#install.packages("rstudioapi")
+library(rstudioapi)
+
+currentPath <- dirname(rstudioapi::getSourceEditorContext()$path)
+#currentPath <- getwd() 
+setwd(currentPath)
+
 
 # 0 miss
 # 1 late
@@ -80,7 +85,7 @@ elements.analysis <- c(elements.analysis,"books.reserved.mean")
 elements.analysis <- c(elements.analysis,"scholarship")
 elements.analysis <- c(elements.analysis,"payment.mean")
 elements.analysis <- c(elements.analysis,"prev.change")
-
+elements.analysis <- c(elements.analysis, "desertion")
 
 
 student.data <- length(elements.analysis)
@@ -89,6 +94,7 @@ student.input <- matrix(0, nrow=student.number,
                          ncol=student.data,
                          dimname=list(studen.id,
                                       elements.analysis))
+
 
 ############
 # Fill in matrix
@@ -193,15 +199,11 @@ for (student in 1:student.number){
   student.input[student, "prev.change"] <- cambio.carrera[student]
 }
 
+
 ############
 # Normalize values
 ###########
-student.input.norm <- matrix(0, nrow=student.number, 
-                        ncol=student.data,
-                        dimname=list(studen.id,
-                                     elements.analysis))
-
-
+student.input.norm <- student.input
 
 assistance.mean.max <- 2
 gerder.offset <- 1
@@ -231,3 +233,16 @@ student.input.norm[,"books.reserved.mean"] <- student.input[,"books.reserved.mea
 student.input.norm[,"scholarship"] <- student.input[,"scholarship"]
 student.input.norm[,"payment.mean"] <- student.input[,"payment.mean"] / payment.mean.max
 student.input.norm[,"prev.change"] <- student.input[,"prev.change"]
+
+
+
+
+############
+# Separate input data from validation data
+###########
+set.seed(1234)
+val.Index <- sample(1:nrow(student.input.norm), 100)
+val.sample <- student.input.norm[val.Index,]
+student.input.norm.sample <- student.input.norm[-val.Index,]
+dim(val.sample)
+dim(student.input.norm.sample)

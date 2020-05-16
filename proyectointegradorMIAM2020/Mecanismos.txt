@@ -1,0 +1,13 @@
+# Mecanismos
+# presupuesto: 10k d??lares
+# 1.- dar beca estudiantil, 500 d??lares.
+# 2.- vales de transporte, 100 d??lares.
+# 3.- mentor??a, 200 d??lares.
+# 4.- consultor??a psicol??gica, 400 d??lares.
+# 5.- boleto a evento integraci??n, 50 d??lares.
+# 6.- Asesor??a individual, 250 d??lares
+# 7.- Cursos remediales, 2500 dlls
+# 8.- Visita a empresa, 50 dlls
+# 9.- Ex??men extempor??neo, 100 dlls
+# 10.- pl??tica motivacional, 50 dlls
+# 11.- viaje recreativo, 10 dlls
